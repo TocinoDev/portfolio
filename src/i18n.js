@@ -110,7 +110,7 @@ export const STRINGS = {
           name: "GitHub",
           description: "Code hosting and collaboration",
           logo: githubLogo,
-          url: "https://github.com",
+          url: "https://github.com/TocinoDev",
           adaptive: true,
         },
         {
@@ -254,7 +254,7 @@ export const STRINGS = {
           name: "GitHub",
           description: "Hospedaje de código y colaboración",
           logo: githubLogo,
-          url: "https://github.com",
+          url: "https://github.com/TocinoDev",
           adaptive: true,
         },
         {
