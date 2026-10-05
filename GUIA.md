@@ -19,7 +19,7 @@ Edita el array `projects` en `src/i18n.js` (hay uno por idioma, `en` y `es`) con
   tech: ["HTML", "CSS", "JavaScript"],
   demoUrl: "https://...",
   repoUrl: "https://github.com/...",
-  image: "/mi-proyecto.webp", // o "" para placeholder
+  image: "mi-proyecto.webp", // o "" para placeholder (ruta relativa, sin / inicial)
 },
 ```
 

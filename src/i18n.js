@@ -346,7 +346,7 @@ export const projects = [
     tech: ["Rust", "ratatui"],
     demoUrl: "https://github.com/TocinoDev/CobraTui/releases",
     repoUrl: "https://github.com/TocinoDev/CobraTui",
-    image: "/cobra-tui.webp",
+    image: "cobra-tui.webp",
     imgCaption: "Captura tomada en Windows Terminal para una estética más cuidada.",
     imgCaptionEn: "Screenshot taken in Windows Terminal for a cleaner look.",
   },
