@@ -364,7 +364,7 @@ export default function App() {
                     </button>
                     <div className="contact-list" role="menu">
                       <a
-                        href="https://github.com/"
+                        href="https://github.com/TocinoDev"
                         target="_blank"
                         rel="noopener noreferrer"
                         role="menuitem"
@@ -570,7 +570,7 @@ export default function App() {
                 <div className="cta-row">
                   <a
                     className="btn primary"
-                    href="https://github.com/"
+                    href="https://github.com/TocinoDev"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
